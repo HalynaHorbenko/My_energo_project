@@ -3,6 +3,7 @@ SQL project
 Cílem tohoto projektu bylo vytvořit dvě tabulky ze sad databází, pomocí kterých lze analyzovat změny cen u určitých produktů, změny mezd a porovnávat je s HDP.
 
 t_Halyna_Horbenko_project_SQL_primary_final (pro data mezd a cen potravin za Českou republiku sjednocených na totožné porovnatelné období – společné roky);
+
 t_Halyna_Horbenko_project_SQL_secondary_final (pro dodatečná data o dalších evropských státech).
 
 Data jsou čerpána z tabulek: 
