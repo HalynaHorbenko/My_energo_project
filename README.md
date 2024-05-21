@@ -1,4 +1,4 @@
-# SQL_project
+# SQL_project_Horbenko
 SQL project
 Cílem tohoto projektu bylo vytvořit dvě tabulky ze sad databází, pomocí kterých lze analyzovat změny cen u určitých produktů, změny mezd a porovnávat je s HDP.
 
