@@ -2,6 +2,8 @@
 SQL project
 Cílem tohoto projektu bylo vytvořit dvě tabulky ze sad databází, pomocí kterých lze analyzovat změny cen u určitých produktů, změny mezd a porovnávat je s HDP.
 
+Než odpovíme na položené otázky, musíme vytvořit tabulky s databázemi, které potřebujeme. projektSQL_tvorba_tabul.sql s tím pomůže.
+
 t_Halyna_Horbenko_project_SQL_primary_final (pro data mezd a cen potravin za Českou republiku sjednocených na totožné porovnatelné období – společné roky);
 
 t_Halyna_Horbenko_project_SQL_secondary_final (pro dodatečná data o dalších evropských státech).
@@ -25,11 +27,11 @@ Výzkumné otázky
 
 1.	Rostou v průběhu let mzdy ve všech odvětvích, nebo v některých klesají?
 
-Ve většině období mzdy oproti předchozímu roku rostou, ale jsou roky, kdy klesají, i když nijak výrazně.
+Ve většině oblastí mzdy v letech 2010 a 2013 klesají. V jiných obdobích mzdy rostou, ale jsou určité oblasti, kde mzdy klesají.
 
 2.	Kolik je možné si koupit litrů mléka a kilogramů chleba za první a poslední srovnatelné období v dostupných datech cen a mezd?
 
-Výsledkem vzorku je informace o množství litrů mléka a kilogramů chleba za první a poslední srovnatelné období
+V prvním období 1. 2. 2006 - 1. 8. 2006 koupíte v průměru 14,9 kg chleba a 14,3 litrů mléka. V posledním období 12.10.2018 - 16.12.2018 - průměrně 24,7 kg chleba a 19,6 litrů mléka.
 
 3.	Která kategorie potravin zdražuje nejpomaleji (je u ní nejnižší percentuální meziroční nárůst)?
 
