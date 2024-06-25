@@ -24,6 +24,7 @@ economies - HDP, GINI, daňová zátěž, atd. pro daný stát a rok.
 Databázové soubory obsahují informace o mzdah za období 2001-2021, cenách potravin - 2006-2018, HDP - 1960-2020. Pro případné srovnání byla proto vybrána období, která jsou přítomna ve všech souborech dat, a to 2006-2018.
 
 Výzkumné otázky
+V souboru projektSQL_dotazy.sql jsou uvedeny skripty pro odpovědí.
 
 1.	Rostou v průběhu let mzdy ve všech odvětvích, nebo v některých klesají?
 
