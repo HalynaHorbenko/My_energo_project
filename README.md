@@ -35,11 +35,11 @@ V prvním období 1. 2. 2006 - 1. 8. 2006 koupíte v průměru 14,9 kg chleba a 
 
 3.	Která kategorie potravin zdražuje nejpomaleji (je u ní nejnižší percentuální meziroční nárůst)?
 
-Tato otázka je prezentována třemi způsoby – pro databázi jako celek, zvlášť pro roky a prostřednictvím vytvoření pohledu.
+Tohle je vepřová pečeně s kostí - 34 % za celé období od roku 2006 do roku 2018. Tato otázka je prezentována třemi způsoby – pro databázi jako celek, zvlášť pro roky a prostřednictvím vytvoření pohledu.
 
 4.	Existuje rok, ve kterém byl meziroční nárůst cen potravin výrazně vyšší než růst mezd (větší než 10 %)?
 
-Výsledek je prezentován jako procentuální nárůst cen, mezd a rozdílu mezi nimi.
+Existuje. Výsledek je prezentován jako procentuální nárůst cen, mezd a rozdílu mezi nimi.
 
 5.	Má výška HDP vliv na změny ve mzdách a cenách potravin? Neboli, pokud HDP vzroste výrazněji v jednom roce, projeví se to na cenách potravin či mzdách ve stejném nebo násdujícím roce výraznějším růstem?
 
